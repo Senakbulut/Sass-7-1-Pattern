@@ -1,0 +1,51 @@
+h1 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.button, .button-err, .button-suc, .button-warn {
+  float: left;
+  padding: 5px 10px;
+  margin: 5px;
+  color: #fff;
+}
+
+.button-err {
+  background: red;
+}
+
+.button-suc {
+  background: green;
+}
+
+.button-warn {
+  background: orange;
+}
+
+footer {
+  background: #aaa;
+}
+
+header {
+  width: 100%;
+  float: left;
+}
+
+#home {
+  width: 100vw;
+  height: 100vh;
+}
+
+.dark {
+  background: #000;
+}
+
+.light {
+  background: #fff;
+}
+/*# sourceMappingURL=main.css.map */

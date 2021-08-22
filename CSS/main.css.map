@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "AICA,AAAA,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CAAG;;AACvB,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CAAG;;ACLvB,AAAA,OAAO,EAKP,WAAW,EAGX,WAAW,EAGX,YAAY,CAXJ;EACJ,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,QAAQ;EACjB,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,IAAI;CAAG;;AAClB,AAAA,WAAW,CAAC;EAER,UAAU,EAAE,GAAG;CAAG;;AACtB,AAAA,WAAW,CAAC;EAER,UAAU,EAAE,KAAK;CAAG;;AACxB,AAAA,YAAY,CAAC;EAET,UAAU,EAAE,MAAM;CAAG;;ACbzB,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,IAAI;CAAG;;ACDvB,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;CAAG;;ACFlB,AAAA,KAAK,CAAC;EACF,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAAG;;AEFpB,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,IAAI;CAAG;;ACDvB,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,IAAI;CAAG",
+    "sources": [
+        "main.sass",
+        "abstracts/_variables.sass",
+        "abstracts/_functions.sass",
+        "abstracts/_mixins.sass",
+        "base/_typography.sass",
+        "components/_buttons.sass",
+        "layout/_footer.sass",
+        "layout/_header.sass",
+        "pages/_home.sass",
+        "pages/_contact.sass",
+        "themes/_dark.sass",
+        "themes/_light.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}
